@@ -9,7 +9,7 @@ new Vue({
   el: "#app",
   data: {
     // Enter your Bing Maps API key here
-    bingMapAPIKEY: "",
+    bingMapAPIKEY: "AnF_gwDIz3i28qxf_ipA7-d8h3FDCjhy2phqTLG2mpYmSwqm2DuUKfPXoIRZt9wR",
     currentLanguage: "en",
     currentTexts: {},
 
